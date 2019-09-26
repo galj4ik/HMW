@@ -10,25 +10,24 @@
 
     <h4>Contacts</h4><br>
 
-
-    <div id="tabs">
-  <ul>
-    <li><a href="#fragment-1">One</a></li>
-    <li><a href="#fragment-2">Two</a></li>
-    <li><a href="#fragment-3">Three</a></li>
+    <div class="tabbable"> <!-- Only required for left/right tabs -->
+  <ul class="nav nav-tabs">
+    <li class="active"><a href="#tab1" data-toggle="tab"><h5>History \\\\   </h5></a></li>
+    <li><a href="#tab2" data-toggle="tab"><h5>About Us \\\\   </h5></a></li>
+    <li><a href="#tab3" data-toggle="tab"><h5>Our mission \\\\   </h5></a></li>
   </ul>
-  <div id="fragment-1">
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
-  </div>
-  <div id="fragment-2">
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
-  </div>
-  <div id="fragment-3">
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+  <div class="tab-content">
+    <div class="tab-pane active" id="tab1">
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. A ad sunt, consectetur expedita omnis optio iste?.</p>
+    </div>
+    <div class="tab-pane" id="tab2">
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, aut vel delectus quae ibus, nihil corrupti.</p>
+    </div>
+    <div class="tab-pane" id="tab3">
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ad officiis inporibus veritatis..</p>
+    </div>
   </div>
 </div>
-
-
 
     <!--Google map-->
     <div class="container-contact">

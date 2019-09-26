@@ -1,10 +1,4 @@
-// $('.carousel').carousel()
-// // $('.carousel').carousel({
-// //     interval: 2000
-// //   })
 
-// .carousel('prev')
-// .carousel('next')
 
 
 
@@ -21,19 +15,6 @@ function addTask(){
     $('#task-name').val('')
 }
 
-$( "#datepicker" ).datepicker();
-
-$('#tab-container').easytabs();
-
-$( function() {
-    var tabs = $( "#tabs" ).tabs();
-    tabs.find( ".ui-tabs-nav" ).sortable({
-      axis: "x",
-      stop: function() {
-        tabs.tabs( "refresh" );
-      }
-    });
-  } );
 
 
   
