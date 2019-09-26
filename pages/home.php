@@ -37,7 +37,7 @@
 
 <div class="row">
   <div class="col-lg-4">
-    <img src="4.jpg." width="170" height="140">
+  <a href="?page=articlex"><img src="4.jpg." width="170" height="140"></a>
    
     <h4> <a href="?page=articlex">Article X</a></h4>
     <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
@@ -45,7 +45,7 @@
     
   </div>
   <div class="col-lg-4">
-  <img src="5.jpg." width="170" height="140">
+  <a href="?page=articley"> <img src="5.jpg." width="170" height="140"></a>
   
     <h4> <a href="?page=articley">Article Y</a></h4>
     
@@ -53,7 +53,7 @@
    
   </div>
   <div class="col-lg-4">
-    <img src="6.jpg." width="170" height="140">
+  <a href="?page=articlez"><img src="6.jpg." width="170" height="140"></a>
     <h4> <a href="?page=articlez">Article Z</a></h4>
     <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
     

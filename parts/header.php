@@ -7,23 +7,16 @@
     <title>Website</title>
   
     
-    <link rel="stylesheet" href="/resources/demos/style.css">
+    
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
-    <link href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
     <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css"/>
 
     <link rel="stylesheet" href="css.css">
-    <script>
-            $( function() {
-              $( "#tabs" ).tabs();
-            } );
-            </script>
-            
-    <link rel="stylesheet" href="css.css">
+
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">

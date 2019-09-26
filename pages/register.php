@@ -10,6 +10,8 @@
     <h4>Register</h4><br>
     <h3> </h3>
 <!-- input  -->
+
+    
     <form>
         <div class="form-group">
             <!-- <label for="InputEUsername">Username</label> -->
@@ -34,14 +36,14 @@
             <input type="surname" class="form-control" id="InputSurName" placeholder="Surname">
         </div>
         <div>
-            <!-- <label for="country">Country</label> -->
+            
             <select name="country" class="form-control" id="InputCountry" placeholder="Country*">
-                <!-- <optgroup label="Baltijas celjsh"> -->
+                
 
                 <option class="nav-link disabled" value="" aria-disabled="true">Country*</option>
                 <option value="">Latvija</option>
                 <option value="">Lietuva</option>
-                <!-- </optgroup> -->
+                
                 <option value="">Krievija</option>
                 <option value="">Ungarija</option>
                 <option value="">USA</option>
@@ -52,17 +54,23 @@
 
         <div class="form-group form-check">
             <input type="checkbox" class="form-check-input" id="Check1">
+            </div>
+            <div>  
             <label class="form-check-label" for="Check1">I accept T&C</label>
+            
         </div>
         <button type="submit" class="btn btn-primary">Register</button>
     </form>
     <div>
 
     </div>
+    <hr class="featurette-divider">
+
     <div class="form-group">
-        <!-- aria-describedby="passwordHelpInline -->
+        
         <small id="infoHelpInline" class="text-muted">
             All fields with * must be filled in
         </small>
 
     </div>
+

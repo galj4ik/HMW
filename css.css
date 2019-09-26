@@ -67,4 +67,7 @@ body
     position: fixed;
     bottom: 0;
 }
-
+.form-reg{
+    display: flex;
+    position: fixed;
+}
